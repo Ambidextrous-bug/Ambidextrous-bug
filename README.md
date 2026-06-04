@@ -1,5 +1,10 @@
 ## Earl John B. Plaza
 
+Second Year BSIT Student | Davao Del Norte State College
+
+Back-End Developer | Focusing on Database Management
+
+Portfolio: 
 <!--
 **Ambidextrous-bug/Ambidextrous-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
